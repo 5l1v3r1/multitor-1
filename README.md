@@ -1,2 +1,2 @@
 # multitor
-How to stay in 5 places at the same time
+How to stay in multi places at the same time
